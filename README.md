@@ -13,6 +13,3 @@ python3 socket client.py if you are the "Client"
 Have not tried any other clients but they might work
 
 If you have any issues please report them in "Issues" And they will be fixed as soon as possible.
-
-
-NOTE: DO NOT USE FOR MALICIOUS PURPOSES
