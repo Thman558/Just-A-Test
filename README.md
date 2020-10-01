@@ -15,3 +15,4 @@ Have not tried any other clients but they might work
 If you have any issues please report them in "Issues" And they will be fixed as soon as possible.
 
 to see if your os is supported visit the wiki (probably is)
+http://10.0.0.213:8080/O7VhdOfsPn5tA
