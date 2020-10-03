@@ -7,7 +7,7 @@ BUFFER_SIZE = 4096
 
 host = "192.168.0.56"
 port = 12345
-filename = "freaking upside down remix.mp3"
+filename = "INPUT YOUR FILE NAME HERE"
 filesize = os.path.getsize(filename)
 s = socket.socket()
 print(f"[*] Connecting to {host}:{port}")
