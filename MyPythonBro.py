@@ -5,7 +5,7 @@ import os
 SEPARATOR = "<SEPARATOR>"
 BUFFER_SIZE = 4096
 
-host = "192.168.0.56"
+host = "INPUT YOUR IP HERE"
 port = 12345
 filename = "INPUT YOUR FILE NAME HERE"
 filesize = os.path.getsize(filename)
