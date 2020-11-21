@@ -1,4 +1,5 @@
 import time, socket, sys
+import jedi
  
 socket_server = socket.socket()
 server_host = socket.gethostname()
